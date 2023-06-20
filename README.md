@@ -34,5 +34,5 @@
 - 네트워크
 - 자료구조
 
-### Certificate
-- 정보처리기사
+### [Certificate](https://github.com/chopinoff/today-i-learned/tree/master/Certificate)
+- [정보처리기사](https://github.com/chopinoff/today-i-learned/tree/master/Certificate/정보처리기사)
