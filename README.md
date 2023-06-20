@@ -4,12 +4,14 @@
 **Language**
 - JavaScript
 - TypeScript
+- Dart
 - Python
 - HTML / CSS
 
 **Front End**
 - React.js
 - Vue.js
+- Flutter
 - React Native
 - Recoil
 - 최적화 기술
