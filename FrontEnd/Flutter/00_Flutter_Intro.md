@@ -42,12 +42,14 @@
 <br><br>
 <img src="image/flutter_architecture.png" alt="Flutter Architecture" width="40%" height="40%">
 <br><br>
+
 **Flutter 동작 과정**
 1. 엔진을 어플리케이션 내부에 넣음
 2. Dart코드를 컴파일함
 3. 유저가 앱을 실하면 엔진을 구동하는 runner 프로젝트(embedder)를 실행
 4. 엔진이 모든 UI를 프레임워크와 함께 그려줌
 <br><br>
+
 **Flutter의 단점 : 네이티브 위젯을 사용하지 않음**
 - 모든 위젯은 운영체제에 의해 그려지는 것이 아닌 오로지 렌더링 엔진에 의해서만 그려짐
 - 플러터에서 유사한 디자인을 제공하지만 100% 같은 것은 아님
@@ -69,8 +71,9 @@
 ### 1. Flutter SDK 설치
 <b>방법 1 : .zip파일 다운로드하기 (공식 홈페이지)</b>
 - [공식 홈페이지 설치 가이드](https://docs.flutter.dev/get-started/install/windows)
+
 <b>방법 2 : Chocolatey로 설치하기 (추천)</b>
-- [Chocolatey 설치](https://chocolatey.org/install)
+- [Chocolatey 설치 가이드](https://chocolatey.org/install)
 1. PowerShell 관리자 권한으로 열기
 2. `Get-ExecutionPolicy` 명령어 입력
 3. `Restricted`일 경우 `Set-ExecutionPolicy AllSigned` or `Set-ExecutionPolicy Bypass -Scope Process` 입력
@@ -82,7 +85,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 - 만약 오류 발생 시 Chocolatey 버전 업그레이드 : `choco upgrade chocolatey`
 
 ### 2. 시뮬레이터 설치 및 설정
-- [Android Studio](https://docs.flutter.dev/get-started/install/windows#android-setup)
+- [Android Studio 설치 및 설정 가이드](https://docs.flutter.dev/get-started/install/windows#android-setup)
 - Android Studio 설치 및 USB 디버깅(선택), Android Licenses, Visual Studio 설치 등 순서대로 진행
 
 ### 3. Flutter doctor
@@ -140,6 +143,9 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 <br>
 
 ![vscode_interface](image/vscode_interface.png)
+
+1. Start Debugging : 디버깅 시작
+2. Select Device : 디버깅 할 디바이스 선택
 
 ### Run Flutter App (Debugging)
 !<img src="image/buttons.png" width="60%">
