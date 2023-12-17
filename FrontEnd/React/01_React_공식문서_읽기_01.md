@@ -34,12 +34,48 @@ JSX의 중괄호 안에는 유효한 모든 JavaScript 표현식을 넣을 수 �
 
 ```jsx
 function getGreeting(user) {
-if (user) {
-return <h1>Hello, {formatName(user)}!</h1>;  
-}
-return <h1>Hello, Stranger.</h1>;
+	if (user) {
+		return <h1>Hello, {formatName(user)}!</h1>;  
+	}
+		return <h1>Hello, Stranger.</h1>;
 }
 ```
 
+
+## JSX 속성 정의
+
+어트리뷰트에 따옴표를 사용해 문자열 리터럴 정의
+```jsx
+const element = <a href="https://www.reactjs.org"> link </a>;
 ```
+
+어트리뷰트에 중괄호를 사용해 JavaScript 표현식 삽입
+```jsx
+const element = <img src={user.avatarUrl}></img>;
 ```
+
+### 주의
+1. 따옴표, 중괄호 두 가지를 동시에 사용하면 안 됨
+2. JSX는 JavaScript에 더 가깝기 때문에 camelCase 프로퍼티 명명 규칙을 따름
+	- ex)  `class` > `className`, `tabindex` > `tabIndex`
+
+## JSX로 자식 정의
+
+태그가 비어있을 경우 `/>`를 사용해 바로 닫아주어야 함
+```jsx
+const element = <img src={user.avatarUrl} />;
+```
+
+JSX 태그는 자식을 포함할 수 있음
+```jsx
+const element = (
+  <div>
+    <h1>Hello!</h1>
+    <h2>Good to see you here.</h2>
+  </div>
+);
+```
+
+## JSX는 주입 공격을 방지함
+
+JSX는 XSS 공격을 막을 수 있음
