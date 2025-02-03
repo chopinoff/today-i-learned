@@ -128,13 +128,21 @@
                 "file": "Algorithm/JavaScript/01_코딩_테스트_사전_준비.md"
               }
             }
+          },
+          {
+            "id": "788f7e922b011b68",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
