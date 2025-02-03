@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2d352a538048961",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "58d477087ba4f06c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/React/01_React_공식문서_읽기_01.md",
+                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/React/01_React_공식문서_읽기_01.md",
+                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/React/01_React_공식문서_읽기_01.md",
+                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/React/01_React_공식문서_읽기_01.md"
+                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md"
               }
             }
           }
@@ -157,6 +148,8 @@
   },
   "active": "58d477087ba4f06c",
   "lastOpenFiles": [
+    "Algorithm/JavaScript/01_코딩_테스트_준비.md",
+    "Certificate/정보처리기사/필기/05_정보시스템_구축_관리.md",
     "FrontEnd/React/01_React_공식문서_읽기_01.md",
     "FrontEnd/React"
   ]
