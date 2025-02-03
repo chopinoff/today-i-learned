@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2273fe83b20b4633",
@@ -97,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,13 +154,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9210df88a805744",
+  "active": "daeda186e3c75581",
   "lastOpenFiles": [
+    "Algorithm/JavaScript/01_코딩_테스트_준비.md",
     "2025-02-03.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Algorithm/JavaScript/01_코딩_테스트_준비.md",
     "Certificate/정보처리기사/필기/05_정보시스템_구축_관리.md",
     "FrontEnd/React/01_React_공식문서_읽기_01.md",
     "FrontEnd/React"
