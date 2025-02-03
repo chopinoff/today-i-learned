@@ -4,3 +4,15 @@
 * {
   font-family: "SUIT Variable", "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
 }
+.cm-header-2 {
+  line-height: 40px;
+}
+.cm-header-3 {
+  line-height: 36px;
+}
+.cm-line {
+  line-height: 26px;
+}
+.HyperMD-list-line-1 {
+  padding-top: 7px !important;
+}
