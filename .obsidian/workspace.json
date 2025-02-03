@@ -11,22 +11,15 @@
             "id": "d9210df88a805744",
             "type": "leaf",
             "state": {
-              "type": "css-editor-view",
+              "type": "markdown",
               "state": {
-                "file": "global-snippet.css"
+                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md",
+                "mode": "source",
+                "source": false
               }
             }
-          },
-          {
-            "id": "a22f13404d0413a1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm/JavaScript/01_코딩_테스트_준비.md"
+              }
             }
           }
         ]
@@ -151,13 +147,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a22f13404d0413a1",
+  "active": "d9210df88a805744",
   "lastOpenFiles": [
-    "Algorithm/JavaScript/01_코딩_테스트_준비.md",
-    "2025-02-03.md",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
     "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "2025-02-03.md",
+    "Algorithm/JavaScript/01_코딩_테스트_준비.md",
     "Certificate/정보처리기사/필기/05_정보시스템_구축_관리.md",
     "FrontEnd/React/01_React_공식문서_읽기_01.md",
     "FrontEnd/React"
