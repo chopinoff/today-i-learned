@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/JavaScript/01_코딩_테스트_사전_준비.md",
+                "file": "Algorithm/JavaScript/02_코딩_테스트_완전_정복.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/JavaScript/01_코딩_테스트_사전_준비.md",
+                "file": "Algorithm/JavaScript/02_코딩_테스트_완전_정복.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/JavaScript/01_코딩_테스트_사전_준비.md",
+                "file": "Algorithm/JavaScript/02_코딩_테스트_완전_정복.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/JavaScript/01_코딩_테스트_사전_준비.md"
+                "file": "Algorithm/JavaScript/02_코딩_테스트_완전_정복.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "d9210df88a805744",
   "lastOpenFiles": [
+    "Algorithm/JavaScript/01_코딩_테스트_사전_준비.md",
     "Algorithm/JavaScript/02_코딩_테스트_완전_정복.md",
     "02_코딩_테스트_완전_정복.md",
     "Algorithm/02_코딩_테스트_완전_정복.md",
-    "Algorithm/JavaScript/01_코딩_테스트_사전_준비.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
